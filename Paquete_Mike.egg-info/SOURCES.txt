@@ -1,0 +1,10 @@
+setup.py
+Paquete_Mike.egg-info/PKG-INFO
+Paquete_Mike.egg-info/SOURCES.txt
+Paquete_Mike.egg-info/dependency_links.txt
+Paquete_Mike.egg-info/top_level.txt
+paquete/__init__.py
+paquete/argumentos.py
+paquete/funciones_matematicas.py
+paquete/matematicas.py
+paquete/tabla_multiplicar.py
