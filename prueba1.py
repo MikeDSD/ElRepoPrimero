@@ -1,7 +1,8 @@
-from paquete.funciones_matematicas import sumar, Persona
+tiempo = 5
 
-print(sumar(5,5))
+while tiempo > 1:
+    print("Aqui estamos")
+    print("Aqui seguimos")
+    tiempo-=1
 
-p1 = Persona("Mike", "Sirola")
-print(p1)
-p1.comer()
+print("Salimos")
